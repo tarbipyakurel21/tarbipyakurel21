@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarbipyakurel21
-- 👀 I’m interested in Full Stack Java Development
-- 🌱 I’m currently learning Java Enterprise dev.
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning full stack dev.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: github or Linkedin.
