@@ -2,3 +2,4 @@
 
 💻 Java | Python | TypeScript  
 🌐 Full-Stack Developer  
+AI Safety
